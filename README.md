@@ -1,5 +1,3 @@
-"# Nodejs_MySQL_MongoDB" 
-
 Pre-requisite:
 1. Node.js Runtime Environment Software - Download from https://nodejs.org and Install
 
